@@ -57,4 +57,6 @@ Tu1: Привет, всем!
 ```bash
 go run main.go -mode=server
 ```
+```bash
 go run main.go -mode=client -username=Tu1
+```
